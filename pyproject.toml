@@ -1,0 +1,14 @@
+[project]
+name = "ds_utils"
+version = "0.1.0"
+description = "Utilidades para aplicaciones de ciencia de datos"
+authors = [ { name = "sergiosal" } ]
+readme = "README.md"
+requires-python = ">=3.8"
+
+[tool.setuptools]
+packages = ["ds_utils"]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
