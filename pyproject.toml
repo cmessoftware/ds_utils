@@ -2,7 +2,7 @@
 name = "ds_utils"
 version = "0.1.0"
 description = "Utilidades para aplicaciones de ciencia de datos"
-authors = [ { name = "sergiosal" } ]
+authors = [ { name = "cmessoftware" } ]
 readme = "README.md"
 requires-python = ">=3.8"
 
